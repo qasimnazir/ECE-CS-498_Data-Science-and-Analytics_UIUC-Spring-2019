@@ -19,6 +19,28 @@ Concepts you will learn and apply
 ● Dimensionality reduction (Principal Component Analysis, t-SNE)
 ● Clustering (K-Means, Gaussian Mixture Model clustering, Hierarchical clustering)
 
+## Dataset Description
+
+The biologists have obtained approximately 400 triple-negative breast cancer cells, half of which
+are treated with metformin (referred to as metformin-treated cells) and half that are not (referred
+to as baseline cells).The cells were sequenced using scRNA-seq, and the resulting data reflect
+~20,000 genes and their associated gene expressions for baseline and metformin-treated cells.
+
+**GeneExpression_Baseline.csv**: Gene expression matrix for baseline cells
+
+**GeneExpression_Metformin.csv**: Gene expression matrix for metformin-treated cells, similar
+to GeneExpression_Baseline.csv.
+
+**QualityControl.csv**: Experiment conditions and corresponding quality records collected from
+previous scRNA-seq experiments.
+
+**BayesInferenceBase.csv**: Experiment conditions collected for baseline cells in GeneExpression_Baseline.csv
+
+**BayesInferenceMetf.csv**: Experiment conditions collected for baseline cells in
+GeneExpression_Metformin.csv, similar to ​BayesInferenceBase.csv
+
+**PathwayDictionary.txt**
+
 ## Tasks Description
 **Note:** Detailed tasks requirements can be found in project description document. 
 ### Task 1: Data Cleaning and Visual Inspection
