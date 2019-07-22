@@ -1,0 +1,1025 @@
+Month,Car,Location,Weather,TypeOfTrigger,ReactionTime,Cause
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.58,Incorrect Traffic Light Detection
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.66,Adverse road surface conditions
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,1.93,Position Estimation Failure
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.65,Emergency Vehicle
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.64,Adverse road surface conditions
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.88,Incorrect Traffic Light Detection
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.41,Emergency Vehicle
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,1.45,Emergency Vehicle
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.07,Software Froze
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.37,Hardware Fault
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,1.55,Emergency Vehicle
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.04,Incorrect Traffic Light Detection
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.4,Incorrect behavior prediction of others
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,1.86,Emergency Vehicle
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.21,Adverse road surface conditions
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.51,Recklessly behaving agent
+14-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.38,System Tuning and Calibration
+14-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.22,Incorrect Traffic Light Detection
+14-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,1.38,Adverse road surface conditions
+14-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Software Froze
+14-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.44,Unwanted Driver Discomfort
+14-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Software Froze
+14-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Hardware Fault
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.04,Unwanted Driver Discomfort
+14-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.29,Incorrect Traffic Light Detection
+14-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Software Froze
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,1.35,Incorrect Traffic Light Detection
+14-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect Traffic Light Detection
+14-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Software Froze
+14-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Position Estimation Failure
+14-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.35,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,1.03,Hardware Fault
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,1.12,Hardware Fault
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.42,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.13,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.16,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Software Froze
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.17,System Tuning and Calibration
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.21,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,1.05,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.137,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.57,Hardware Fault
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.29,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.56,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.97,Position Estimation Failure
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Hardware Fault
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.49,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.49,Position Estimation Failure
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.29,Software Froze
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.9,Hardware Fault
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.94,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,2.82,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,2.68,Hardware Fault
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.97,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,2.94,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.74,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.92,Position Estimation Failure
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,System Tuning and Calibration
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.74,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.56,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.2,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,1.29,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,3.31,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Software Froze
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,1.21,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.76,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,1.62,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.87,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.37,Position Estimation Failure
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,1.33,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,1.65,Position Estimation Failure
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,1,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.25,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.95,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.21,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,1.03,Position Estimation Failure
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.22,Position Estimation Failure
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.22,Position Estimation Failure
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.35,Position Estimation Failure
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.35,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.69,Position Estimation Failure
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Software Froze
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,25,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.23,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,1.25,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.28,Position Estimation Failure
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.4,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.21,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.06,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.21,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Hardware Fault
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.8,Position Estimation Failure
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,System Tuning and Calibration
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.35,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.12,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.18,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.21,Position Estimation Failure
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,System Tuning and Calibration
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Hardware Fault
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,1.06,Hardware Fault
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.75,Position Estimation Failure
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.79,Software Froze
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.41,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.8,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.29,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,1.25,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.67,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.99,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.54,Software Froze
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.29,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.42,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Hardware Fault
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.27,Software Froze
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.21,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.74,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.29,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.33,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.64,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.9,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.29,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.03,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.01,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.01,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.42,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.5,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.62,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Software Froze
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.33,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.13,Hardware Fault
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.33,Adverse road surface conditions
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,System Tuning and Calibration
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.57,Software Froze
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.34,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.74,Hardware Fault
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.52,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.15,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.72,Position Estimation Failure
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.3,Position Estimation Failure
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Software Froze
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,1.14,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.68,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.05,Emergency Vehicle
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Software Froze
+14-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,System Tuning and Calibration
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.99,Unwanted Driver Discomfort
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.43,Position Estimation Failure
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.71,Software Froze
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Emergency Vehicle
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.3,Emergency Vehicle
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.25,Emergency Vehicle
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect Traffic Light Detection
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Emergency Vehicle
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.35,Incorrect Traffic Light Detection
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,2.47,Incorrect Traffic Light Detection
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,1.13,Emergency Vehicle
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.56,Incorrect Traffic Light Detection
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,1.19,Position Estimation Failure
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Position Estimation Failure
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.56,Software Froze
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.79,Position Estimation Failure
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Emergency Vehicle
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,2.69,Adverse road surface conditions
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,1.38,Adverse road surface conditions
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,System Tuning and Calibration
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,2.83,Incorrect Traffic Light Detection
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,4.84,Position Estimation Failure
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.25,Adverse road surface conditions
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,1.75,Emergency Vehicle
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.88,Emergency Vehicle
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,1.48,Emergency Vehicle
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.41,Adverse road surface conditions
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.29,Emergency Vehicle
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.29,Emergency Vehicle
+14-Nov,WDD2221851A001072,highway,cloudy,automatic,1.48,Hardware Fault
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Hardware Fault
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Software Froze
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.84,Position Estimation Failure
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,3.79,Hardware Fault
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.07,Emergency Vehicle
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,System Tuning and Calibration
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,System Tuning and Calibration
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.12,Adverse road surface conditions
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,2.6,Recklessly behaving agent
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.11,System Tuning and Calibration
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.22,Recklessly behaving agent
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.62,Position Estimation Failure
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,3.55,Incorrect Traffic Light Detection
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Hardware Fault
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.33,Emergency Vehicle
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,3.05,Incorrect Traffic Light Detection
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.44,Adverse road surface conditions
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.28,Position Estimation Failure
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,4.05,Recklessly behaving agent
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,1.38,Emergency Vehicle
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,1.37,Adverse road surface conditions
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.34,Adverse road surface conditions
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.52,Adverse road surface conditions
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.62,Position Estimation Failure
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.48,Hardware Fault
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.8,Adverse road surface conditions
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.27,Emergency Vehicle
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.32,Incorrect Traffic Light Detection
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,System Tuning and Calibration
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.16,Incorrect Traffic Light Detection
+14-Nov,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+14-Nov,WDD2221851A001072,urban-street,clear,automatic,1.35,System Tuning and Calibration
+14-Nov,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+14-Nov,WDD2221851A001072,urban-street,clear,automatic,0.82,System Tuning and Calibration
+14-Nov,WDD2221851A001072,urban-street,clear,automatic,0.78,System Tuning and Calibration
+14-Nov,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+14-Nov,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+14-Nov,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+14-Nov,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+14-Nov,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+14-Nov,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+14-Nov,WDD2221851A001072,urban-street,clear,automatic,0.68,Hardware Fault
+14-Nov,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+14-Nov,WDD2221851A001072,urban-street,clear,automatic,0.63,Hardware Fault
+14-Nov,WDD2221851A001072,urban-street,clear,automatic,0.5,System Tuning and Calibration
+14-Nov,WDD2221851A001072,urban-street,clear,automatic,0.63,Software Froze
+14-Nov,WDD2221851A001072,urban-street,clear,automatic,1.06,Hardware Fault
+14-Nov,WDD2221851A001072,urban-street,clear,automatic,1.92,Hardware Fault
+14-Nov,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+14-Nov,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+14-Nov,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+14-Nov,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+14-Nov,WDD2221851A001072,urban-street,clear,automatic,3.58,Hardware Fault
+14-Nov,WDD2221851A001072,urban-street,clear,automatic,0.63,Software Froze
+14-Nov,WDD2221851A001072,urban-street,clear,automatic,0.72,Hardware Fault
+14-Nov,WDD2221851A001072,urban-street,clear,automatic,6.2,Software Froze
+14-Nov,WDD2221851A001072,urban-street,clear,automatic,0.37,Hardware Fault
+14-Nov,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect Traffic Light Detection
+14-Nov,WDD2221851A001072,urban-street,cloudy,manual,,System Tuning and Calibration
+14-Nov,WDD2221851A001072,urban-street,clear,automatic,1.12,System Tuning and Calibration
+14-Nov,WDD2221851A001072,urban-street,clear,automatic,0.5,Software Froze
+14-Nov,WDD2221851A001072,urban-street,clear,automatic,0.25,System Tuning and Calibration
+14-Nov,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+14-Nov,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+14-Nov,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+14-Nov,WDD2221851A001072,urban-street,clear,automatic,0.71,Software Froze
+14-Dec,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+14-Dec,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+14-Dec,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+14-Dec,WDD2221851A001072,urban-street,clear,automatic,0.33,Software Froze
+14-Dec,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+14-Dec,WDD2221851A001072,highway,clear,manual,,Software Froze
+14-Dec,WDD2221851A001072,urban-street,clear,automatic,1.39,Hardware Fault
+14-Dec,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+14-Dec,WDD2221851A001072,highway,clear,manual,,Software Froze
+14-Dec,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+14-Dec,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+14-Dec,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+14-Dec,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+14-Dec,WDD2221851A001072,urban-street,clear,automatic,0.23,System Tuning and Calibration
+14-Dec,WDD2221851A001072,urban-street,clear,automatic,0.32,Hardware Fault
+14-Dec,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+14-Dec,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+14-Dec,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+14-Dec,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+14-Dec,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+14-Dec,WDD2221851A001072,urban-street,clear,automatic,0.4,System Tuning and Calibration
+14-Dec,WDD2221851A001072,urban-street,clear,automatic,0.37,System Tuning and Calibration
+14-Dec,WDD2221851A001072,urban-street,clear,automatic,0.67,Hardware Fault
+14-Dec,WDD2221851A001072,urban-street,clear,automatic,1.54,Software Froze
+14-Dec,WDD2221851A001072,urban-street,clear,automatic,0.36,Software Froze
+14-Dec,WDD2221851A001072,urban-street,clear,automatic,0.56,Hardware Fault
+14-Dec,WDD2221851A001072,urban-street,clear,automatic,1.21,System Tuning and Calibration
+14-Dec,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+14-Dec,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Dec,WDD2221851A001072,urban-street,cloudy,automatic,0.45,Position Estimation Failure
+14-Dec,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Dec,WDD2221851A001072,urban-street,clear,automatic,0.95,System Tuning and Calibration
+14-Dec,WDD2221851A001072,urban-street,clear,automatic,1.85,System Tuning and Calibration
+14-Dec,WDD2221851A001072,urban-street,clear,automatic,0.43,Software Froze
+14-Dec,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+14-Dec,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+15-Jan,WDD2221851A001072,highway,clear,manual,,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,automatic,0.58,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,automatic,0.18,System Tuning and Calibration
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,automatic,0.17,System Tuning and Calibration
+15-Jan,WDD2221851A001072,urban-street,clear,automatic,0.15,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+15-Jan,WDD2221851A001072,urban-street,clear,automatic,0.66,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+15-Jan,WDD2221851A001072,urban-street,clear,automatic,0.75,System Tuning and Calibration
+15-Jan,WDD2221851A001072,urban-street,clear,automatic,0.05,Software Froze
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,automatic,0.04,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+15-Jan,WDD2221851A001072,urban-street,clear,automatic,0.23,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,automatic,0.23,System Tuning and Calibration
+15-Jan,WDD2221851A001072,urban-street,clear,automatic,0.27,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,automatic,0.53,System Tuning and Calibration
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,automatic,0.37,Software Froze
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,automatic,0.01,Software Froze
+15-Jan,WDD2221851A001072,urban-street,clear,automatic,0.37,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+15-Jan,WDD2221851A001072,urban-street,clear,automatic,0.02,Software Froze
+15-Jan,WDD2221851A001072,urban-street,clear,automatic,0.44,System Tuning and Calibration
+15-Jan,WDD2221851A001072,urban-street,clear,automatic,0.25,System Tuning and Calibration
+15-Jan,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+15-Feb,WDD2221851A001072,urban-street,clear,automatic,0.27,Software Froze
+15-Feb,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+15-Feb,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+15-Feb,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+15-Feb,WDD2221851A001072,urban-street,clear,automatic,0.37,System Tuning and Calibration
+15-Feb,WDD2221851A001072,urban-street,clear,automatic,0.64,Software Froze
+15-Feb,WDD2221851A001072,urban-street,clear,automatic,0.1,Hardware Fault
+15-Feb,WDD2221851A001072,urban-street,clear,automatic,0.15,Software Froze
+15-Feb,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+15-Feb,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+15-Feb,WDD2221851A001072,urban-street,clear,automatic,1.05,System Tuning and Calibration
+15-Feb,WDD2221851A001072,urban-street,clear,automatic,0.88,Software Froze
+15-Feb,WDD2221851A001072,urban-street,clear,automatic,0.43,System Tuning and Calibration
+15-Feb,WDD2221851A001072,urban-street,clear,manual,,Hardware Fault
+15-Feb,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+15-Feb,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,0.67,System Tuning and Calibration
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,1.54,System Tuning and Calibration
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,0.56,Software Froze
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,1.21,Software Froze
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,0.45,Hardware Fault
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,0.34,Hardware Fault
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,1.26,Software Froze
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,0.33,Hardware Fault
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,0.13,Hardware Fault
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,0.34,Software Froze
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,0.74,Software Froze
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,4.66,System Tuning and Calibration
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,0.14,System Tuning and Calibration
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,1.58,Software Froze
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,0.72,System Tuning and Calibration
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,0.69,Software Froze
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,1.84,System Tuning and Calibration
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,0.13,Software Froze
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,0.33,Hardware Fault
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,0.87,Hardware Fault
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,1.4,Hardware Fault
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,0.68,Software Froze
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,0.6,System Tuning and Calibration
+15-Mar,WDD2221851A001072,urban-street,clear,manual,,Software Froze
+15-Mar,WDD2221851A001072,urban-street,clear,manual,,System Tuning and Calibration
+15-Mar,WDD2221851A001072,urban-street,clear,automatic,0.64,Software Froze
+15-Mar,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Mar,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Mar,WDD2221851A001072,urban-street,cloudy,automatic,0.9,Emergency Vehicle
+15-Mar,WDD2221851A001072,urban-street,cloudy,manual,,Adverse road surface conditions
+15-Mar,WDD2221851A001072,urban-street,cloudy,automatic,0.64,Unwanted Driver Discomfort
+15-Mar,WDD2221851A001072,urban-street,cloudy,automatic,0.1,Emergency Vehicle
+15-Mar,WDD2221851A001072,urban-street,cloudy,automatic,1.8,Incorrect behavior prediction of others
+15-Mar,WDD2221851A001072,urban-street,cloudy,automatic,0.94,Incorrect behavior prediction of others
+15-Mar,WDD2221851A001072,urban-street,cloudy,automatic,2.16,Emergency Vehicle
+15-Mar,WDD2221851A001072,urban-street,cloudy,automatic,0.12,Incorrect Traffic Light Detection
+15-Mar,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Mar,WDD2221851A001072,highway,cloudy,manual,,Hardware Fault
+15-Mar,WDD2221851A001072,urban-street,cloudy,manual,,Hardware Fault
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.23,Emergency Vehicle
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.32,Emergency Vehicle
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.4,Adverse road surface conditions
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.37,Adverse road surface conditions
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.67,Emergency Vehicle
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,1.54,Hardware Fault
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.56,Incorrect Traffic Light Detection
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,1.21,Recklessly behaving agent
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.45,Adverse road surface conditions
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.95,Hardware Fault
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,1.65,System Tuning and Calibration
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.41,Adverse road surface conditions
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.8,Hardware Fault
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.32,Adverse road surface conditions
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,2.03,Position Estimation Failure
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,1.08,Incorrect Traffic Light Detection
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.08,Adverse road surface conditions
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.4,Software Froze
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.67,Position Estimation Failure
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.01,Recklessly behaving agent
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.5,Emergency Vehicle
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.62,Emergency Vehicle
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.33,Incorrect Traffic Light Detection
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.13,Position Estimation Failure
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.33,Position Estimation Failure
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.57,Adverse road surface conditions
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.34,Adverse road surface conditions
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.34,Unwanted Driver Discomfort
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Emergency Vehicle
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,2.6,Position Estimation Failure
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.22,Adverse road surface conditions
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,3.58,Adverse road surface conditions
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.44,Adverse road surface conditions
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.28,Incorrect Traffic Light Detection
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Emergency Vehicle
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Position Estimation Failure
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Software Froze
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.32,Adverse road surface conditions
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.16,Recklessly behaving agent
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.82,Incorrect Traffic Light Detection
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.78,Software Froze
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.63,Emergency Vehicle
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.63,Incorrect Traffic Light Detection
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.63,Position Estimation Failure
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,1.92,Position Estimation Failure
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.2,Adverse road surface conditions
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,1.12,Adverse road surface conditions
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.29,Incorrect Traffic Light Detection
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,1.48,Position Estimation Failure
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.34,Emergency Vehicle
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Hardware Fault
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.11,Incorrect Traffic Light Detection
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.22,Incorrect Traffic Light Detection
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,0.62,Incorrect Traffic Light Detection
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,3.58,Adverse road surface conditions
+15-Apr,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Apr,WDD2221851A001072,urban-street,cloudy,automatic,3.08,Incorrect Traffic Light Detection
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Emergency Vehicle
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-May,WDD2221851A001072,urban-street,cloudy,automatic,0.18,Emergency Vehicle
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect Traffic Light Detection
+15-May,WDD2221851A001072,urban-street,cloudy,automatic,1.23,Position Estimation Failure
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Adverse road surface conditions
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-May,WDD2221851A001072,urban-street,cloudy,automatic,0.58,Incorrect behavior prediction of others
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Software Froze
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Adverse road surface conditions
+15-May,WDD2221851A001072,urban-street,cloudy,automatic,1.24,Incorrect Traffic Light Detection
+15-May,WDD2221851A001072,urban-street,cloudy,automatic,0.13,System Tuning and Calibration
+15-May,WDD2221851A001072,urban-street,cloudy,automatic,0.33,Incorrect behavior prediction of others
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-May,WDD2221851A001072,urban-street,cloudy,automatic,0.23,Incorrect Traffic Light Detection
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-May,WDD2221851A001072,urban-street,cloudy,automatic,0.56,Incorrect Traffic Light Detection
+15-May,WDD2221851A001072,urban-street,cloudy,automatic,0.23,Adverse road surface conditions
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-May,WDD2221851A001072,urban-street,cloudy,automatic,0.53,Incorrect Traffic Light Detection
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Software Froze
+15-May,WDD2221851A001072,urban-street,cloudy,automatic,0.87,Unwanted Driver Discomfort
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-May,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.17,Position Estimation Failure
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.3,Position Estimation Failure
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Emergency Vehicle
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.3,Incorrect Traffic Light Detection
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,2.66,Hardware Fault
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.64,Adverse road surface conditions
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,1.36,Position Estimation Failure
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.17,Emergency Vehicle
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.18,Adverse road surface conditions
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jun,WDD2221851A001072,highway,cloudy,manual,,Hardware Fault
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,2.51,Adverse road surface conditions
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,1.54,Incorrect behavior prediction of others
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.23,Position Estimation Failure
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,1.54,Position Estimation Failure
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.36,Adverse road surface conditions
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,1.26,Incorrect Traffic Light Detection
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect Traffic Light Detection
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Jun,WDD2221851A001072,highway,cloudy,manual,,Hardware Fault
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.2,Recklessly behaving agent
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.45,Position Estimation Failure
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.43,Position Estimation Failure
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.36,Emergency Vehicle
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Emergency Vehicle
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Hardware Fault
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.79,Position Estimation Failure
+15-Jun,WDD2221851A001072,highway,cloudy,manual,,Software Froze
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Jun,WDD2221851A001072,highway,cloudy,manual,,Software Froze
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,3.79,Adverse road surface conditions
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.79,Adverse road surface conditions
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.34,Recklessly behaving agent
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,4.66,Position Estimation Failure
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.14,Incorrect Traffic Light Detection
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.13,System Tuning and Calibration
+15-Jun,WDD2221851A001072,highway,cloudy,manual,,System Tuning and Calibration
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,0.6,Incorrect Traffic Light Detection
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.64,Incorrect Traffic Light Detection
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,1.8,Position Estimation Failure
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,2.74,Position Estimation Failure
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,2.11,Incorrect Traffic Light Detection
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.54,Position Estimation Failure
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.17,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.66,System Tuning and Calibration
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.12,Emergency Vehicle
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.18,Emergency Vehicle
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Adverse road surface conditions
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.01,Emergency Vehicle
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Position Estimation Failure
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.52,Incorrect Traffic Light Detection
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.2,Adverse road surface conditions
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Emergency Vehicle
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.85,Adverse road surface conditions
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.79,Emergency Vehicle
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.41,Position Estimation Failure
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.8,Software Froze
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,1.25,Incorrect Traffic Light Detection
+15-Jun,WDD2221851A001072,highway,cloudy,manual,,Software Froze
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.32,Incorrect Traffic Light Detection
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.1,Position Estimation Failure
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,System Tuning and Calibration
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.38,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,1.21,Position Estimation Failure
+15-Jun,WDD2221851A001072,highway,cloudy,manual,,Hardware Fault
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.3,Position Estimation Failure
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.77,Emergency Vehicle
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.12,Recklessly behaving agent
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,1.11,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Hardware Fault
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,1.07,Hardware Fault
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,3.29,Software Froze
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,1.8,Position Estimation Failure
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,2.99,Recklessly behaving agent
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,2.03,Hardware Fault
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Adverse road surface conditions
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.59,Emergency Vehicle
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.63,Recklessly behaving agent
+15-Jun,WDD2221851A001072,urban-street,cloudy,automatic,0.53,Position Estimation Failure
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect Traffic Light Detection
+15-Jun,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Hardware Fault
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,System Tuning and Calibration
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,System Tuning and Calibration
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,1.16,Unwanted Driver Discomfort
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.62,Unwanted Driver Discomfort
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.32,Emergency Vehicle
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.62,Incorrect Traffic Light Detection
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.49,Incorrect behavior prediction of others
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Position Estimation Failure
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.73,Emergency Vehicle
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.41,Adverse road surface conditions
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.18,Incorrect behavior prediction of others
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,1.08,Emergency Vehicle
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.37,Adverse road surface conditions
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.15,Incorrect Traffic Light Detection
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.68,Emergency Vehicle
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,1.29,Incorrect Traffic Light Detection
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Position Estimation Failure
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.65,Emergency Vehicle
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,System Tuning and Calibration
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,7.95,Emergency Vehicle
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,3.56,Position Estimation Failure
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,1.83,Recklessly behaving agent
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.01,Emergency Vehicle
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.61,Incorrect behavior prediction of others
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect Traffic Light Detection
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Position Estimation Failure
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.63,Emergency Vehicle
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.25,Incorrect Traffic Light Detection
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.7,Position Estimation Failure
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.94,Software Froze
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.78,Adverse road surface conditions
+15-Jul,WDD2221851A001072,highway,cloudy,manual,,Software Froze
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,,System Tuning and Calibration
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Hardware Fault
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Hardware Fault
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.29,Emergency Vehicle
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Software Froze
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,1.34,Incorrect Traffic Light Detection
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.1,Emergency Vehicle
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.35,Adverse road surface conditions
+15-Jul,WDD2221851A001072,urban-street,cloudy,automatic,0.66,Incorrect Traffic Light Detection
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Hardware Fault
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Emergency Vehicle
+15-Jul,WDD2221851A001072,urban-street,cloudy,manual,,Emergency Vehicle
+15-Jul,WDD2221851A001072,highway,cloudy,manual,,System Tuning and Calibration
+15-Aug,WDD2221851A001072,urban-street,cloudy,automatic,0.66,Incorrect Traffic Light Detection
+15-Aug,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Aug,WDD2221851A001072,urban-street,cloudy,manual,,Hardware Fault
+15-Aug,WDD2221851A001072,urban-street,cloudy,automatic,1.51,System Tuning and Calibration
+15-Aug,WDD2221851A001072,urban-street,cloudy,automatic,0.76,Emergency Vehicle
+15-Aug,WDD2221851A001072,urban-street,cloudy,automatic,2.03,Incorrect Traffic Light Detection
+15-Aug,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Aug,WDD2221851A001072,urban-street,cloudy,automatic,2.2,Incorrect Traffic Light Detection
+15-Aug,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Aug,WDD2221851A001072,urban-street,cloudy,automatic,1.08,Unwanted Driver Discomfort
+15-Aug,WDD2221851A001072,urban-street,cloudy,manual,,Position Estimation Failure
+15-Aug,WDD2221851A001072,urban-street,cloudy,manual,,Position Estimation Failure
+15-Aug,WDD2221851A001072,urban-street,cloudy,automatic,0.01,Incorrect Traffic Light Detection
+15-Aug,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Aug,WDD2221851A001072,highway,cloudy,manual,,System Tuning and Calibration
+15-Aug,WDD2221851A001072,urban-street,cloudy,automatic,0.03,Emergency Vehicle
+15-Aug,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Aug,WDD2221851A001072,urban-street,cloudy,automatic,0.52,Adverse road surface conditions
+15-Aug,WDD2221851A001072,urban-street,cloudy,automatic,2.09,Position Estimation Failure
+15-Aug,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Aug,WDD2221851A001072,urban-street,cloudy,automatic,0.39,Position Estimation Failure
+15-Aug,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Aug,WDD2221851A001072,urban-street,cloudy,automatic,0.98,Emergency Vehicle
+15-Aug,WDD2221851A001072,urban-street,cloudy,automatic,0.77,Recklessly behaving agent
+15-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Sep,WDD2221851A001072,urban-street,cloudy,manual,,System Tuning and Calibration
+15-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.59,Incorrect Traffic Light Detection
+15-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Adverse road surface conditions
+15-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.42,Incorrect Traffic Light Detection
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.22,Incorrect Traffic Light Detection
+15-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Position Estimation Failure
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.76,Emergency Vehicle
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,,Unwanted Driver Discomfort
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,4.66,Software Froze
+15-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Adverse road surface conditions
+15-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.14,Emergency Vehicle
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,1.58,Emergency Vehicle
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.72,Incorrect Traffic Light Detection
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.89,Position Estimation Failure
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,1.84,Software Froze
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,2.08,Adverse road surface conditions
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.45,Software Froze
+15-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect Traffic Light Detection
+15-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,2.17,Adverse road surface conditions
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.38,Incorrect Traffic Light Detection
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,1.84,Recklessly behaving agent
+15-Sep,WDD2221851A001072,highway,cloudy,manual,,System Tuning and Calibration
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.28,Position Estimation Failure
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,1.21,Unwanted Driver Discomfort
+15-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Emergency Vehicle
+15-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,5.18,Hardware Fault
+15-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.6,Emergency Vehicle
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.42,Emergency Vehicle
+15-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Position Estimation Failure
+15-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Hardware Fault
+15-Sep,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Sep,WDD2221851A001072,urban-street,cloudy,automatic,0.46,Software Froze
+15-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.3,Emergency Vehicle
+15-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.76,Incorrect Traffic Light Detection
+15-Oct,WDD2221851A001072,urban-street,cloudy,manual,,System Tuning and Calibration
+15-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0,Incorrect Traffic Light Detection
+15-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Position Estimation Failure
+15-Oct,WDD2221851A001072,urban-street,cloudy,automatic,2.66,Position Estimation Failure
+15-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Hardware Fault
+15-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Oct,WDD2221851A001072,highway,cloudy,manual,,Hardware Fault
+15-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Oct,WDD2221851A001072,urban-street,cloudy,automatic,0.77,Position Estimation Failure
+15-Oct,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.32,Adverse road surface conditions
+15-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Adverse road surface conditions
+15-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.1,Incorrect Traffic Light Detection
+15-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.67,Hardware Fault
+15-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.22,System Tuning and Calibration
+15-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.45,Incorrect Traffic Light Detection
+15-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.6,Emergency Vehicle
+15-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+15-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.18,Recklessly behaving agent
+15-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Adverse road surface conditions
+15-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.16,Recklessly behaving agent
+15-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Recklessly behaving agent
+15-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.82,Incorrect Traffic Light Detection
+15-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.65,System Tuning and Calibration
+15-Nov,WDD2221851A001072,urban-street,cloudy,automatic,0.23,System Tuning and Calibration
+15-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+15-Nov,WDD2221851A001072,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A000495,urban-street,cloudy,automatic,2.14,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A000495,urban-street,cloudy,automatic,1.03,Emergency Vehicle
+14-Oct,WDD2221851A000495,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Oct,WDD2221851A000495,urban-street,cloudy,automatic,0.88,Adverse road surface conditions
+14-Oct,WDD2221851A000495,urban-street,cloudy,automatic,0.41,Position Estimation Failure
+14-Oct,WDD2221851A000495,urban-street,cloudy,automatic,0.33,Incorrect Traffic Light Detection
+14-Oct,WDD2221851A000495,urban-street,cloudy,automatic,0.13,Software Froze
+14-Oct,WDD2221851A000495,urban-street,cloudy,automatic,0.33,Position Estimation Failure
+14-Oct,WDD2221851A000495,urban-street,cloudy,automatic,0.57,Position Estimation Failure
+14-Oct,WDD2221851A000495,urban-street,cloudy,automatic,0.54,Emergency Vehicle
+14-Oct,WDD2221851A000495,urban-street,cloudy,automatic,0.74,Unwanted Driver Discomfort
+14-Oct,WDD2221851A000495,urban-street,cloudy,automatic,0.23,Position Estimation Failure
+14-Oct,WDD2221851A000495,urban-street,cloudy,manual,,Position Estimation Failure
+14-Oct,WDD2221851A000495,urban-street,cloudy,manual,,Adverse road surface conditions
+14-Oct,WDD2221851A000495,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Oct,WDD2221851A000495,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Nov,WDD2221851A000495,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Nov,WDD2221851A000495,urban-street,cloudy,manual,,Hardware Fault
+14-Nov,WDD2221851A000495,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Nov,WDD2221851A000495,urban-street,cloudy,manual,,Adverse road surface conditions
+14-Nov,WDD2221851A000495,highway,cloudy,manual,,Hardware Fault
+14-Nov,WDD2221851A000495,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Nov,WDD2221851A000495,urban-street,cloudy,manual,,Recklessly behaving agent
+14-Nov,WDD2221851A000495,urban-street,cloudy,manual,,Unwanted Driver Discomfort
+14-Nov,WDD2221851A000495,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Nov,WDD2221851A000495,urban-street,cloudy,automatic,1.25,Position Estimation Failure
+14-Nov,WDD2221851A000495,urban-street,cloudy,automatic,0.4,Software Froze
+14-Nov,WDD2221851A000495,urban-street,cloudy,automatic,0.21,Incorrect Traffic Light Detection
+14-Nov,WDD2221851A000495,urban-street,cloudy,automatic,0.66,Emergency Vehicle
+14-Nov,WDD2221851A000495,urban-street,cloudy,automatic,0.21,Position Estimation Failure
+14-Nov,WDD2221851A000495,highway,cloudy,manual,,Hardware Fault
+14-Nov,WDD2221851A000495,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Nov,WDD2221851A000495,urban-street,cloudy,manual,,Incorrect behavior prediction of others
+14-Nov,WDD2221851A000495,urban-street,clear,automatic,0.12,Hardware Fault
+14-Nov,WDD2221851A000495,urban-street,clear,automatic,0.18,Hardware Fault
+14-Nov,WDD2221851A000495,urban-street,clear,automatic,21,System Tuning and Calibration
+14-Nov,WDD2221851A000495,urban-street,clear,automatic,1.06,System Tuning and Calibration
+14-Nov,WDD2221851A000495,urban-street,clear,manual,,System Tuning and Calibration
+14-Nov,WDD2221851A000495,urban-street,clear,manual,,Hardware Fault
+14-Nov,WDD2221851A000495,urban-street,clear,manual,,Software Froze
+14-Nov,WDD2221851A000495,urban-street,clear,automatic,1.92,System Tuning and Calibration
+14-Nov,WDD2221851A000495,urban-street,clear,automatic,0.2,System Tuning and Calibration
+14-Nov,WDD2221851A000495,urban-street,clear,automatic,1.12,Hardware Fault
+14-Nov,WDD2221851A000495,urban-street,clear,manual,,Recklessly behaving agent
+14-Nov,WDD2221851A000495,urban-street,clear,manual,,System Tuning and Calibration
+14-Nov,WDD2221851A000495,urban-street,clear,manual,,System Tuning and Calibration
+14-Nov,WDD2221851A000495,urban-street,clear,automatic,0.29,Software Froze
+14-Nov,WDD2221851A000495,urban-street,clear,automatic,1.48,System Tuning and Calibration
+14-Nov,WDD2221851A000495,urban-street,clear,automatic,0.45,Software Froze
+14-Nov,WDD2221851A000495,urban-street,clear,manual,,System Tuning and Calibration
+14-Nov,WDD2221851A000495,urban-street,clear,manual,,Software Froze
+14-Nov,WDD2221851A000495,urban-street,clear,manual,,System Tuning and Calibration
+14-Nov,WDD2221851A000495,urban-street,clear,automatic,1.85,System Tuning and Calibration
+14-Nov,WDD2221851A000495,urban-street,clear,automatic,2.11,Hardware Fault
+14-Nov,WDD2221851A000495,urban-street,clear,automatic,0.9,Software Froze
+14-Nov,WDD2221851A000495,urban-street,clear,automatic,1.25,System Tuning and Calibration
+14-Nov,WDD2221851A000495,urban-street,clear,manual,,System Tuning and Calibration
+14-Nov,WDD2221851A000495,urban-street,clear,manual,,Hardware Fault
+14-Nov,WDD2221851A000495,urban-street,clear,manual,,Software Froze
+14-Nov,WDD2221851A000495,urban-street,clear,manual,,Hardware Fault
+14-Nov,WDD2221851A000495,urban-street,clear,manual,,System Tuning and Calibration
+14-Nov,WDD2221851A000495,highway,clear,manual,,System Tuning and Calibration
+14-Nov,WDD2221851A000495,urban-street,clear,manual,,Hardware Fault
+14-Nov,WDD2221851A000495,urban-street,clear,manual,,System Tuning and Calibration
