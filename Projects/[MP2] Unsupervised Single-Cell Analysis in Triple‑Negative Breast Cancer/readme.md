@@ -28,16 +28,13 @@ to as baseline cells).The cells were sequenced using scRNA-seq, and the resultin
 
 **GeneExpression_Baseline.csv**: Gene expression matrix for baseline cells
 
-**GeneExpression_Metformin.csv**: Gene expression matrix for metformin-treated cells, similar
-to GeneExpression_Baseline.csv.
+**GeneExpression_Metformin.csv**: Gene expression matrix for metformin-treated cells, similar to GeneExpression_Baseline.csv.
 
-**QualityControl.csv**: Experiment conditions and corresponding quality records collected from
-previous scRNA-seq experiments.
+**QualityControl.csv**: Experiment conditions and corresponding quality records collected from previous scRNA-seq experiments.
 
 **BayesInferenceBase.csv**: Experiment conditions collected for baseline cells in GeneExpression_Baseline.csv
 
-**BayesInferenceMetf.csv**: Experiment conditions collected for baseline cells in
-GeneExpression_Metformin.csv, similar to ​BayesInferenceBase.csv
+**BayesInferenceMetf.csv**: Experiment conditions collected for baseline cells in GeneExpression_Metformin.csv, similar to BayesInferenceBase.csv
 
 **PathwayDictionary.txt**
 
